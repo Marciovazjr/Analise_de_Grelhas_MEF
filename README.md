@@ -34,6 +34,12 @@ Exemplo 4 | Exemplo 5 | Exemplo 6
 Exemplo 7 | Exemplo 8 
 <img src = "https://user-images.githubusercontent.com/93450598/158033133-2b031514-336a-47e5-be86-d85e8c3c7270.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158033153-690773dc-ee08-4206-887b-07763856cbab.png" height = "200">
 
+### Modelos com articulações
+
+Entre as barras | Nos apoios do arranjo
+:-: | :-: 
+<img src = "https://user-images.githubusercontent.com/93450598/158033301-bfa755c6-134a-4133-88f9-b116e6eb39a4.png" height = "250">| <img src = "https://user-images.githubusercontent.com/93450598/158033313-3f774138-ee03-4c83-8575-6d9774e1ee1c.png" height = "250">
+
 ### Referenciais
 
 > KASSIMALI, Aslam. Grid. In: KASSIMALI, Aslam. Matrix Analysis of Structures. Carbondale: Cengace Learning, 2011. p. 433-455.
