@@ -14,7 +14,7 @@ Programa desenvolvido na linguagem C durante a graduação de Engenharia Civil c
 <br/>
 <br/>
  
-### Fluxograma do módulo de análise
+### Fluxograma do algoritmo
 
 <img src = "https://user-images.githubusercontent.com/93450598/158020388-535ce92e-09f4-4924-b196-174a87f3c0bc.png" height = "600">
 
