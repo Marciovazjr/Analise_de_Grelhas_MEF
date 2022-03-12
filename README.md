@@ -34,7 +34,7 @@ Exemplo 4 | Exemplo 5 | Exemplo 6
 Exemplo 7 | Exemplo 8 
 <img src = "https://user-images.githubusercontent.com/93450598/158033133-2b031514-336a-47e5-be86-d85e8c3c7270.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158033153-690773dc-ee08-4206-887b-07763856cbab.png" height = "200">
 
-### Modelos com articulações
+### Modelos com vinculações/articulações
 
 Entre as barras | Nos apoios do arranjo
 :-: | :-: 
