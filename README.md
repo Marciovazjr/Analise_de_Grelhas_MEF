@@ -9,7 +9,7 @@ Programa desenvolvido na linguagem C durante a graduação de Engenharia Civil c
 
 <img align = "left" src="https://user-images.githubusercontent.com/93450598/158017826-e9f21ef1-a996-40ac-9d45-8f317a874fa1.png" height = "180">
 
-<p align="justify"> Modelo estrutural em barras retas ou curvas, situadas em um mesmo plano, sob ações externas solicitadas na direção transversal deste plano, de modo a desenvolverem em cada secção: o momento fletor, o esforço cortante e o momento de torção (SORIANO, 2005). </p>
+<p align="justify"> Modelo estrutural em barras retas ou curvas, situadas em um mesmo plano, sob ações externas solicitadas na direção transversal deste plano, de modo a desenvolverem em cada secção: o momento fletor (M), o esforço cortante (V) e o momento de torção (T) (SORIANO, 2005). </p>
 
 <br/>
 <br/>
