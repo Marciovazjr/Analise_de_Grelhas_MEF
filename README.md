@@ -28,7 +28,11 @@ Modelo de Grelha | Modelo no algoritmo
 
 Exemplo 1 | Exemplo 2 | Exemplo 3
 :-: | :-: | :-:
-<img src = "https://user-images.githubusercontent.com/93450598/158031333-c61d608a-dca3-4123-857c-e525aeacc4da.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158031350-c671b765-71fb-48c5-96bd-3c7050c65d04.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158031371-967faa09-27a9-4962-be3c-5021dd141cd5.png" height = "200">
+<img src = "https://user-images.githubusercontent.com/93450598/158031333-c61d608a-dca3-4123-857c-e525aeacc4da.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158032974-aa15c275-11a9-459f-be49-7657393438e8.png" height = "200"> | <img src = "https://user-images.githubusercontent.com/93450598/158031350-c671b765-71fb-48c5-96bd-3c7050c65d04.png" height = "200">
+Exemplo 4 | Exemplo 5 | Exemplo 6
+<img src = "https://user-images.githubusercontent.com/93450598/158031371-967faa09-27a9-4962-be3c-5021dd141cd5.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158033068-dce81bce-8848-4e01-be65-5c3c5f7416ff.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158033093-77748ba3-4194-4b67-95de-70d710ef2659.png" height = "200">
+Exemplo 7 | Exemplo 8 
+<img src = "https://user-images.githubusercontent.com/93450598/158033133-2b031514-336a-47e5-be86-d85e8c3c7270.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158033153-690773dc-ee08-4206-887b-07763856cbab.png" height = "200">
 
 ### Referenciais
 
