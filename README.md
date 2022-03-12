@@ -1,7 +1,7 @@
 # Análise de Grelhas (MEF)
 Programa desenvolvido na linguagem C durante a graduação de Engenharia Civil como Trabalho de conclusão de curso. 
 
-> Título do trabalho: "**_Formulação matricial e implementação computacional para analise de grelhas_**"
+> Título do trabalho: "**_Formulação matricial e implementação computacional para análise de grelhas_**"
  
 <p align="justify"> O trabalho deve por objetivo desenvolver uma implementação computacional baseado na formulação matricial do método dos deslocamentos, capaz de descrever o comportamento das barras de grelha, determinando as reações em seus apoios, os esforços internos e os deslocamentos livres em suas extremidades, quando estas são submetidas a diferentes tipos de carregamentos. </p>
 
