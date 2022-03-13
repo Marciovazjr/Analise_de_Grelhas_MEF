@@ -22,7 +22,7 @@ Programa desenvolvido na linguagem C durante a graduação de Engenharia Civil c
 
 Modelo de Grelha | Modelo no algoritmo
 :-: | :-:
-![Modelo de Grelha](https://user-images.githubusercontent.com/93450598/158030850-8f7fe733-5022-4087-a8e8-362e654da5aa.png?h=100&w=200)|![Modelo no algoritmo](https://user-images.githubusercontent.com/93450598/158030906-dbb846ff-7e7c-48b7-9bae-0bfac9f49cb4.png?h=100&w=120)
+![Modelo de Grelha](https://user-images.githubusercontent.com/93450598/158030850-8f7fe733-5022-4087-a8e8-362e654da5aa.png?h=100&w=200) <br/> <br/> <br/> <p align="left"> Fonte: KASSIMALI (2011) </P>|![Modelo no algoritmo](https://user-images.githubusercontent.com/93450598/158030906-dbb846ff-7e7c-48b7-9bae-0bfac9f49cb4.png?h=100&w=120)
 
 ### Exemplos modelados 
 
