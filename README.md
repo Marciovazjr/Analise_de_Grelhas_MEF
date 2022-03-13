@@ -26,7 +26,7 @@ Modelo de Grelha | Modelo no algoritmo
 
 ### Exemplos modelados
 
-[Exemplo 1](https://github.com/Marciovazjr/Analise_de_Grelhas_MEF/blob/main/ModelosGrelhas_txt/Exemplo1.txt) | [Exemplo 2](https://github.com/Marciovazjr/Analise_de_Grelhas_MEF/blob/main/ModelosGrelhas_txt/Exemplo2.txt)| [Exemplo 3] (https://github.com/Marciovazjr/Analise_de_Grelhas_MEF/blob/main/ModelosGrelhas_txt/Exemplo3.txt)
+[Exemplo 1](https://github.com/Marciovazjr/Analise_de_Grelhas_MEF/blob/main/ModelosGrelhas_txt/Exemplo1.txt) | [Exemplo 2](https://github.com/Marciovazjr/Analise_de_Grelhas_MEF/blob/main/ModelosGrelhas_txt/Exemplo2.txt)| Exemplo 3
 :-: | :-: | :-:
 <img src = "https://user-images.githubusercontent.com/93450598/158031333-c61d608a-dca3-4123-857c-e525aeacc4da.png" height = "200">| <img src = "https://user-images.githubusercontent.com/93450598/158032974-aa15c275-11a9-459f-be49-7657393438e8.png" height = "200"> | <img src = "https://user-images.githubusercontent.com/93450598/158031350-c671b765-71fb-48c5-96bd-3c7050c65d04.png" height = "200">
 Exemplo 4 | Exemplo 5 | Exemplo 6
