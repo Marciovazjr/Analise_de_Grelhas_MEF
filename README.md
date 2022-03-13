@@ -38,9 +38,15 @@ Exemplo 7 | Exemplo 8
 
 ### Modelos com vinculações/articulações
 
-Entre as barras | Nos apoios do arranjo
+Entre as barras | Referêncial local
 :-: | :-: 
-<img src = "https://user-images.githubusercontent.com/93450598/158033301-bfa755c6-134a-4133-88f9-b116e6eb39a4.png" height = "250">| <img src = "https://user-images.githubusercontent.com/93450598/158033313-3f774138-ee03-4c83-8575-6d9774e1ee1c.png" height = "250">
+<img src = "https://user-images.githubusercontent.com/93450598/158033301-bfa755c6-134a-4133-88f9-b116e6eb39a4.png" height = "300">| <img src = "https://user-images.githubusercontent.com/93450598/158067411-85ffd295-d78a-44c5-9f37-b7f53d19cafc.png" height = "300">
+
+Entre barra e apoio | Referêncial local
+:-: | :-: 
+<img src = "https://user-images.githubusercontent.com/93450598/158067503-7ba70ce5-9c01-480f-8ea2-b84b93c2ceda.png" height = "250">| <img src = "https://user-images.githubusercontent.com/93450598/158067525-c4ff29e6-a312-499c-b38b-a00ca027131a.png" height = "250">
+
+
 
 ### Referenciais
 
